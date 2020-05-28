@@ -1,0 +1,132 @@
+.Wrapper{
+    width:1000px;
+    height: 1200px;
+    background-color: #1c1c1c;
+    padding:5px;
+    margin:0 auto;
+}
+.MainHeader{
+    height:100px;
+    background-color: #1a1a1a;
+}
+.MainHeader img{
+   margin-top: 10px;
+}
+.MainHeader h5{
+    color: #bcc8cd;
+    margin-left: 600px;
+    display:inline;
+}
+.Navigation{
+    height:40px;
+    margin-top:0px;
+    background-color: #454545;
+    padding-top:20px;
+    margin-bottom:0px;
+}
+.Navigation li{
+    display:inline;
+    padding:20px;
+    color:#999996;
+    border-right: 1px gray solid;
+}
+.Navigation li a{
+    text-decoration: none;
+    color:#999996;
+}
+.MainImage{
+    background-color: #3b3b3b;
+}
+.MiscellaneousInformation{
+    height:150px;
+    background-color: #1a1a1a;
+}
+
+.MiscellaneousInformation .InfoSec{
+    width:200px;
+    height:150px;
+    padding-top:5px;
+    display:inline-block;
+    padding-left:25px;
+}
+
+.MiscellaneousInformation .InfoSec .InfoSecContent{
+    width:145px;
+    height:150px;
+    display: inline-block;
+    vertical-align: top;
+}
+.MiscellaneousInformation .InfoSec .InfoSecContent h4{
+    color:orange;
+    vertical-align: top;
+    margin-top:5px;
+}
+.MiscellaneousInformation .InfoSec .InfoSecContent p{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ShoppingMiscellaneous{
+    height:150px;
+    background-color: #111111;
+}
+.ShoppingMiscellaneous .Shoppingdetails{
+    width: 700px;
+    padding-top:10px;
+    padding-left:50px;
+    display:inline-block;
+}
+.ShoppingMiscellaneous .Shoppingdetails *{
+    color:white;
+    font-family: cursive;
+}
+.ShoppingMiscellaneous .BuyNowbutton{
+    width: 100px;
+    height: 30px;
+    display: inline-block;
+    background-color: #f08c41;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+.ShoppingMiscellaneous .BuyNowbutton a{
+    text-decoration: none;
+    padding-left: 15px;
+    color: white;
+}
+.BottomPage{
+    background-color: #1a1a1a;
+    height: 360px;
+}
+.BottomPage h3{
+    color:white;
+    font-family: cursive;
+    margin-left: 15px;
+    display: inline;
+}
+.BottomPage a{
+    margin-left:700px;
+    text-decoration: none;
+    color:orange;
+}
+.BottomPage .BottomPage_1{
+    width:215px;
+    height:300px;
+    display:inline-block;
+    margin-left: 15px;
+}
+.BottomPage .BottomPage_1 .Imageportfolio_1{
+    width:215px;
+    display:inline-block;
+    background-color: #363636;
+    padding:1px;
+}
+.BottomPage  .BottomPage_1 h4{
+    color: orange;
+}
+.BottomPage  .BottomPage_1 p{
+    color:white;
+}
+.Wrapper a[href="www.codingdojo.com"]{
+    margin-left:900px;
+    color:gray;
+    text-decoration: none;
+}
